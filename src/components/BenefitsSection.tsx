@@ -1,4 +1,4 @@
-import { Shield, CreditCard, Headphones, Star } from "lucide-react";
+import { Shield, CreditCard, Headphones, Star } from "lucide-react" ;
 import { useLanguage } from "@/contexts/LanguageContext";
 // oi
 const BenefitsSection = () => {
